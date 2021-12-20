@@ -10,13 +10,6 @@
 
 😄 Pronouns: Ela/Dela
 
-## Estatística
-<div align="center">
-<a href="https://github.com/amandamfurtado"> <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandamfurtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandamfurtado&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ## Aprendendo
 
 <div align="center">
@@ -29,7 +22,17 @@
    <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
 
  </div>
-  
+ 
+
+
+## Estatística
+<div align="center">
+<a href="https://github.com/amandamfurtado"> <br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandamfurtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandamfurtado&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 ## Contato
   <div>
   <a href="https://www.linkedin.com/in/https://https://www.linkedin.com/in/amanda-marques-089226217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
