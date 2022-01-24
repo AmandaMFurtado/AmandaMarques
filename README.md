@@ -1,7 +1,5 @@
 ## Oi, eu sou Amanda Marques
 
-## Sobre mim 
-
 🌍 Guarulhos, São Paulo, Brazil
 
 🖥 Web Full Stack Development Student at Generation Brazil
@@ -10,7 +8,6 @@
 
 😄 Pronouns: Ela/Dela
 
-## Aprendendo
 
 <div align="center">
     <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -25,8 +22,6 @@
  </div>
  
 
-
-## Estatística
 <div align="side">
 <a href="https://github.com/amandamfurtado"> <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandamfurtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -34,7 +29,6 @@
 </div>
 
 
-## Contato
   <div>
   <a href="https://www.linkedin.com/in/amanda-marques-089226217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:andaemc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
