@@ -1,4 +1,4 @@
-## Pazer, eu sou Amanda Marques
+## Prazer, eu sou Amanda Marques
 
 🌍 Guarulhos, São Paulo, Brazil
 
