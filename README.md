@@ -1,4 +1,4 @@
-## Oi, eu sou Amanda Marques
+## Pazer, eu sou Amanda Marques
 
 🌍 Guarulhos, São Paulo, Brazil
 
