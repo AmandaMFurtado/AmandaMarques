@@ -2,7 +2,7 @@
 
 🌍 Guarulhos, São Paulo, Brazil
 
-🖥 Web Full Stack Development Student at Generation Brazil
+🖥 Web Full Stack Development Jr
 
 📚 Graduated in Business Administration
 
