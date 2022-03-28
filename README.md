@@ -21,21 +21,27 @@
     <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
  </div>
  
-
+ 
+<div align="center">
 <div align="side">
 <a href="https://github.com/amandamfurtado"> <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandamfurtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandamfurtado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-    
-    
-
-
-  <div>
-  <a href="https://www.linkedin.com/in/amanda-marques-furtado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:andaemc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     </div>
+    
+
    
+   <Grid alignItems="center" item xs={6}>
+      
+  <a href="https://www.linkedin.com/in/amanda-marques-furtado" target="_blank">
+      <img  height="40" width="40" src="https://i.imgur.com/5xEsQWe.png" target="_blank" ></a> 
+           </Grid>
+        <Grid alignItems="center" item xs={6}>
+    <a href = "mailto:andaemc@gmail.com"><img height="40" width="40" src="https://i.imgur.com/huVnk7P.png" target="_blank"></a>
+  
+    
+  
 
 
 
