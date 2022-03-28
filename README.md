@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://i.imgur.com/uiW3kSv.png">
+<img align="right" width="300" height="300" src="https://i.imgur.com/pgWcHfU.gif">
 
 <h1>Seja bem vindo !</h1>
 
@@ -18,7 +18,7 @@
 
 <table>
     <tr>
- <div align="center">
+ <div style="display: inline_block" align="center">
     <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
