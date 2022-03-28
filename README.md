@@ -41,7 +41,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandamfurtado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     </div>
-    <h2>Contato</h2>
+    <h2>Contatos</h2>
     <p></p>
 
     
