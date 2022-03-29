@@ -1,4 +1,4 @@
-<img align="right"  height="300" style="border-radius:100px;" src="https://i.imgur.com/Tpue6ec.png">
+<img align="right"  height="300" style="border-radius:50px;" src="https://i.imgur.com/Tpue6ec.png">
 
 <h1>Seja bem vindo !</h1>
 
