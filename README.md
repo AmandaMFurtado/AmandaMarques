@@ -9,7 +9,7 @@
 
 🖥 Web Full Stack Development Jr
 
-📚 Graduated in Business Administration
+📚 Postgraduate in Program Analysis and Development
 
 😄 Pronouns: Ela/Dela
 
