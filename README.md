@@ -7,7 +7,7 @@
 
 🌍 Guarulhos, São Paulo, Brazil
 
-🖥 Web Full Stack Development Jr
+🖥 Web Full Stack Development
 
 📚 Postgraduate in Program Analysis and Development
 
