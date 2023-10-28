@@ -1,65 +1,75 @@
-<img align="right"  height="300" style="border-radius:50px;" src="https://i.imgur.com/Tpue6ec.png">
 
-<h1>Seja bem vindo !</h1>
+# Amanda Marques 🌟
 
-<h2> Prazer, eu sou Amanda Marques</h2>
+### Desenvolvedora Full Stack | Pós-graduanda em Análise e Desenvolvimento de Programas
+
+📍 **Localização:** Guarulhos, São Paulo, Brazil<br>
+🌐 **Pronomes:** Ela/Dela
+
+---
+<div align="justify">
+    
+## 🎯 Sobre Mim
+
+Sou uma desenvolvedora Web Full Stack com experiência prática tanto em ambientes frontend quanto backend. Através de minhas vivências profissionais, adquiri uma visão holística das fases de desenvolvimento de software. Sou adepta das metodologias ágeis e do Scrum, tendo a capacidade de adaptação rápida às mudanças e colaborando efetivamente em ambientes dinâmicos. Minha habilidade em entender e atender às necessidades dos clientes tem sido um pilar no desenvolvimento de soluções alinhadas aos objetivos dos projetos.
+
+---
+</div>
 
 
-🌍 Guarulhos, São Paulo, Brazil
+## 🛠 Tecnologias & Ferramentas
 
-🖥 Web Full Stack Development
+- **Linguagens & Frameworks:** Java, HTML5, CSS3, JavaScript, Angular, React, Bootstrap, Spring Boot.
+- **Ferramentas de Desenvolvimento:** Javadoc, Compodoc, GIT/Github, Maven, Intellij.
+- **Ferramentas Administrativas:** Pacote Office (Word, Powerpoint, Excel, Outlook).
 
-📚 Postgraduate in Program Analysis and Development
+---
 
-😄 Pronouns: Ela/Dela
+## 🎓 Formação e Aperfeiçoamento
 
+- **Pós-graduação** em Análise e Desenvolvimento de Programas – Descomplica *(09/2022 - 09/2023)*
+- **Bacharelado** em Administração de Empresas – FAPPES *(08/2014 - 12/2018)*
+- Diversos cursos de especialização em tecnologias e práticas de desenvolvimento, incluindo: 
+  - **Java**, **Angular**, **Spring Boot**, **Lógica de Programação** e muitos outros.
 
-<h2>Conhecimentos</h2>
+---
 
-<table>
-    <tr>
- <div style="display: inline_block" align="center">
-    <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-    <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-    <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-    <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-    <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  </div>
-   <tr>
-</table>
+## 🌱 Trajetória Profissional
 
-        
- <h2>Estatística</h2>
+- **Desenvolvedora** na AHR Brasil Soluções em Gestão de Pessoas *(Desde Maio/2022)*
+  - Desenvolvimento e otimização de aplicações web usando Java, Spring Boot e Angular.
+  - Colaboração com equipes multidisciplinares, gerentes e outros desenvolvedores.
+  - Uso de ferramentas de integração contínua e GIT/Github para versionamento.
+  - Manutenção de documentação técnica com Javadoc e Compodoc.
+
+---
+
+## 📞 Contato
+
+- **LinkedIn:** [amanda-marques-furtado](https://www.linkedin.com/in/amanda-marques-furtado)
+- **E-mail:** [andaemc@gmail.com](mailto:andaemc@gmail.com)
+
+---
+
+## 📄 Currículo Completo
+
+Para uma visão detalhada das minhas experiências, habilidades e educação, acesse meu [Currículo](https://bit.ly/AmandaMarquesFurtado).
+
+---
+
+<h2>Estatísticas</h2>
+
 <div align="center">
 <div align="side">
-<a href="https://github.com/amandamfurtado"> <br>
+<a href="https://github.com/amandamfurtado"><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandamfurtado&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandamfurtado&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-    </div>
-    <h2>Contatos</h2>
-    <p></p>
+</div>
 
-    
-   <div align="side">
-   <Grid alignItems="center" item xs={6}>
-      
-  <a href="https://www.linkedin.com/in/amanda-marques-furtado" target="_blank">
-      <img  height="40" width="40" src="https://i.imgur.com/5xEsQWe.png" target="_blank" ></a> 
-           </Grid>
-        <Grid alignItems="center" item xs={6}>
-    <a href = "mailto:andaemc@gmail.com"><img height="40" width="40" src="https://i.imgur.com/huVnk7P.png" target="_blank"></a>
-  
-    
-  
+---
 
-
-
+Obrigada pela visita! Estou sempre aberta a novas oportunidades e desafios. Sinta-se à vontade para entrar em contato.
 
 
 
