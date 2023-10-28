@@ -1,7 +1,7 @@
 
 # Amanda Marques 🌟
 
-### Desenvolvedora Full Stack | Pós-graduanda em Análise e Desenvolvimento de Programas
+### Desenvolvedora Full Stack | Pós-graduada em Análise e Desenvolvimento de Programas
 
 📍 **Localização:** Guarulhos, São Paulo, Brazil<br>
 🌐 **Pronomes:** Ela/Dela
