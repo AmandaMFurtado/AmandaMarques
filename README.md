@@ -34,16 +34,6 @@ Sou uma desenvolvedora Web Full Stack com experiência prática tanto em ambient
 
 ---
 
-## 🌱 Trajetória Profissional
-
-- **Desenvolvedora** na AHR Brasil Soluções em Gestão de Pessoas *(Desde Maio/2022)*
-  - Desenvolvimento e otimização de aplicações web usando Java, Spring Boot e Angular.
-  - Colaboração com equipes multidisciplinares, gerentes e outros desenvolvedores.
-  - Uso de ferramentas de integração contínua e GIT/Github para versionamento.
-  - Manutenção de documentação técnica com Javadoc e Compodoc.
-
----
-
 ## 📞 Contato
 
 - **LinkedIn:** <a href="https://www.linkedin.com/in/amanda-marques-furtado" target="_blank">amanda-marques-furtado</a>
