@@ -36,14 +36,14 @@ Sou uma desenvolvedora Web Full Stack com experiência prática tanto em ambient
 
 ## 📞 Contato
 
-- **LinkedIn:** <a href="https://www.linkedin.com/in/amanda-marques-furtado" target="_blank">amanda-marques-furtado</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/amanda-marques-cunha" target="_blank">amanda-marques-furtado</a>
 - **E-mail:** <a href="mailto:andaemc@gmail.com">andaemc@gmail.com</a>
 
 ---
 
 ## 📄 Currículo Completo
 
-Para uma visão detalhada das minhas experiências, habilidades e educação, acesse meu <a href="https://bit.ly/AmandaMarquesFurtado" target="_blank">Currículo</a>.
+Para uma visão detalhada das minhas experiências, habilidades e educação, acesse meu <a href="https://bit.ly/AmandaMarquesCunha" target="_blank">Currículo</a>.
 
 ---
 
